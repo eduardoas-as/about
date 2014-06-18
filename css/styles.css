@@ -194,13 +194,8 @@ table.header tr:nth-child(n+2) {
 
 footer 
 	{
-	position: relative;
-	margin-top: -25px;
-		/* altura en px del footer con valor negativo */
-	height: 25px;
-		/* Altura del Footer en px*/ 
+	
 	clear: both; 
-
 	text-align: center;
     background : rgb(89,89,89);
     background : -webkit-gradient(linear, left top, left bottom, from(rgb(89,89,89)), to(rgb(54,54,54)));
