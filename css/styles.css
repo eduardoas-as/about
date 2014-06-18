@@ -103,7 +103,7 @@ ul li a {
 }
 .paises
 {
-    width: 100%;
+    width: 50%;
 }
 .pais
 {
@@ -134,7 +134,7 @@ table, table td, table tr {
 table {
     border:0px black solid;
     border-radius:0px;
-    min-width:50%;
+    min-width:100%;
     font-family: Helvetica,Arial;
     color: #111111;
     font-size: 1.1em;
