@@ -192,5 +192,19 @@ table.header tr:nth-child(n+2) {
     text-align: right;
 }
 
+#footer 
+	{
+		
+		position: relative;
+		margin-top: -50px;
+		/* altura en px del footer con valor negativo */
+		height: 50px;
+		/* Altura del Footer en px*/ 
+		clear: both; 
+		background: #286af0; 
+		text-align: center; 
+		color: #FFFFFF;
+		}
+		
 
 
