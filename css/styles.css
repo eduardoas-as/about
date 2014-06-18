@@ -5,7 +5,7 @@ body {
     color: #191007;
     background: url(http://eduardoas-as.github.io/about/img/wood-bg.jpg);
     background-attachment:fixed;
-    font-family: Arial Black;
+    /*font-family: Arial Black;*/
 }
 
 h1 img {
@@ -38,6 +38,7 @@ h1, h2 {
 /*LAVALAMP START*/
 
 .lavalamp {
+
     position: relative;
     border: 1px solid #d6d6d6;
     background: #fff;
@@ -78,7 +79,6 @@ ul {
 ul li {
     list-style: none;
     float:left;
-
     text-align: center;
     }
 
@@ -87,7 +87,8 @@ ul li a {
     text-align: center;
     }
 
-.floatr {
+.floatr 
+{
     position: absolute;
     top: 10px;
     z-index: 50;
