@@ -203,32 +203,33 @@ footer
     border: 1px solid #272727;
 	}
 		
-.cabecera {
-position: fixed ;
-font-family: Arial, Helvetica, sans-serif;
-font-size: 1.8ex;
-color:#FFF;
-float: left;
-background-color:#23528c;
-z-index: 10000;
-width:100%;
-height:auto;
-top: 0px;
-left:0px;
-right:0px;
+.cabecera
+    {
+        position: fixed ;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 1.8ex;
+        color:#FFF;
+        float: left;
+        background-color:#23528c;
+        z-index: 10000;
+        width:100%;
+        height:auto;
+        top: 0px;
+        left:0px;
+        right:0px;
 
 
-text-align: center;
-vertical-align: middle;
-padding:10px;
-opacity:0.90;
--moz-box-shadow: 2px 3px 3px #aaa;
-    -webkit-box-shadow: 2px 3px 3px #aaa;
-    box-shadow: 2px 3px 3px #aaa;
-    /* IE 8 */
-    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Color=#CCCCCC, Direction=90, Strength=2)";
-    /* IE 5.5 - 7 */
-    filter: progid:DXImageTransform.Microsoft.Shadow(Color=#CCCCCC, Direction=90, Strength=2);
+        text-align: center;
+        vertical-align: middle;
+        padding:10px;
+        opacity:0.90;
+        -moz-box-shadow: 2px 3px 3px #aaa;
+        -webkit-box-shadow: 2px 3px 3px #aaa;
+        box-shadow: 2px 3px 3px #aaa;
+            /* IE 8 */
+        -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Color=#CCCCCC, Direction=90, Strength=2)";
+            /* IE 5.5 - 7 */
+        filter: progid:DXImageTransform.Microsoft.Shadow(Color=#CCCCCC, Direction=90, Strength=2);
 
 }
 
