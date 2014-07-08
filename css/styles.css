@@ -28,7 +28,7 @@ h1, h2 {
 }
 
 .ads {
-	position: absolute;
+    position: absolute;
 	top: 30px;
 	right: 0;
 }
@@ -45,13 +45,12 @@ h1, h2 {
     padding: 15px;
     -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25);
 	-moz-box-shadow: 0 3px 6px rgba(0,0,0,.25);
-    border-radius : 10px;
-    -moz-border-radius : 10px;
-    -webkit-border-radius : 10px;
+    border-radius : 5px;
+    -moz-border-radius : 5px;
+    -webkit-border-radius : 5px;
     background : -webkit-gradient(linear, left top, left bottom, from(rgb(240,240,240)), to(rgb(204,204,204)));
     background : -moz-gradient(linear, left top, left bottom, from(rgb(240,240,240)), to(rgb(204,204,204)));
-    height: 18px;
-
+    height: 25px;
 }
 
 .dark {
@@ -101,10 +100,7 @@ ul li a {
     -webkit-transition: all .4s ease-in-out;
     -moz-transition: all .4s ease-in-out;
 }
-.paises
-{
-    width: 50%;
-}
+
 .pais
 {
     background: #fff;
@@ -113,7 +109,6 @@ ul li a {
     margin: 10px;
     padding: 10px;
     transition: 3em 3s;
-
 }
 
 thead
@@ -203,33 +198,5 @@ footer
     border: 1px solid #272727;
 	}
 		
-.cabecera
-    {
-        position: fixed ;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 1.8ex;
-        color:#FFF;
-        float: left;
-        background-color:#23528c;
-        z-index: 10000;
-        width:100%;
-        height:auto;
-        top: 0px;
-        left:0px;
-        right:0px;
 
-
-        text-align: center;
-        vertical-align: middle;
-        padding:10px;
-        opacity:0.90;
-        -moz-box-shadow: 2px 3px 3px #aaa;
-        -webkit-box-shadow: 2px 3px 3px #aaa;
-        box-shadow: 2px 3px 3px #aaa;
-            /* IE 8 */
-        -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Color=#CCCCCC, Direction=90, Strength=2)";
-            /* IE 5.5 - 7 */
-        filter: progid:DXImageTransform.Microsoft.Shadow(Color=#CCCCCC, Direction=90, Strength=2);
-
-}
 
