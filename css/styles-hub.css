@@ -47,7 +47,7 @@ h1, h2 {
 }
 
 #wrapper {
-    width: 950px;
+    width: 1024px;
     margin: 33px auto;
     position: relative;
 }
@@ -63,10 +63,33 @@ h1, h2 {
 }
 
 #contenedorLinks {
-    background-color:#fffffd;
-    height:630px;
-    width:740px;
+    background-color: #fffffe;
+    height: 630px;
+    width: 740px;
     margin: 0 auto;
+    margin-top: 85px;
+    float: left;
+    margin-left: 95px;
+}
+#closeDisplayLinks {
+    text-align: right;
+    margin-top: 1px;
+    height: 35px;
+    margin-bottom: 4px;
+    /*background-image: url(../images/Close-On.png);
+    background-repeat: no-repeat;
+    background-position: top right;*/
+
+}
+
+
+#extension {
+background-color: #fffffd;
+height: 630px;
+width: 140px;
+margin-top: 50px;
+float: left;
+margin-left: 40px;
 }
 
 
@@ -100,6 +123,7 @@ h1, h2 {
     font-size: 60pt;
     letter-spacing: 20px;
     color: #E36170;
+    margin-right: 20px;
 }
 #LinksMexico
 {
@@ -153,7 +177,7 @@ h1, h2 {
     position: relative;
     line-height:95px;
     font-size: 60pt;
-    letter-spacing: 15px;
+    letter-spacing: 17px;
     color: #21B899;
 }
 #LinksBrasilC
@@ -194,7 +218,7 @@ h1, h2 {
     font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
     line-height:80px;
-    letter-spacing: 15px;
+    letter-spacing: 25px;
     font-size: 50pt;
     color: #4261AB;
 }
@@ -208,8 +232,9 @@ h1, h2 {
     position: relative;
     line-height:80px;
     font-size: 55pt;
-    letter-spacing: 20px;
+    letter-spacing: 21px;
     color: #12ADB0;
+    margin-right: 10px;
 }
 #LinksArgentina
 {
@@ -225,6 +250,7 @@ h1, h2 {
     font-size: 50pt;
     letter-spacing: 10px;
     color: #E36170;
+    margin-right: 8px;
 }
 #LinksFso
 {
@@ -252,6 +278,7 @@ h1, h2 {
     letter-spacing: 10px;
     font-size: 50pt;
     color: #FF8000;
+    margin-right: 7px;
 }
 #LinksPeru
 {
