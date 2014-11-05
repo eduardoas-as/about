@@ -125,6 +125,10 @@ margin-left: 40px;
     color: #E36170;
     margin-right: 20px;
 }
+.spanMexico a:hover
+{
+ color: #000000;
+}
 #LinksMexico
 {
     color: #E36170;
@@ -138,6 +142,10 @@ margin-left: 40px;
     font-size: 60pt;
     letter-spacing: 20px;
     color: #808285;
+}
+.spanLinconln a:hover
+{
+ color: #000000;
 }
 #LinksLincoln
 {
@@ -153,6 +161,10 @@ margin-left: 40px;
     font-size: 54pt;
     color: #E3BD59;
 }
+.spanVenezuela a:hover
+{
+ color: #000000;
+}
 #LinksVenezuela
 {
     color: #E3BD59;
@@ -165,6 +177,10 @@ margin-left: 40px;
     font-size: 60pt;
     letter-spacing: 20px;
     color: #21B899;
+}
+.spanBrasil a:hover
+{
+ color: #000000;
 }
 #LinksBrasil
 {
@@ -180,6 +196,10 @@ margin-left: 40px;
     letter-spacing: 17px;
     color: #21B899;
 }
+.spanBrasilCamiones a:hover
+{
+ color: #000000;
+}
 #LinksBrasilC
 {
     color: #21B899;
@@ -192,6 +212,10 @@ margin-left: 40px;
     font-size: 55pt;
     letter-spacing: 16px;
     color: #E36170;
+}
+.spanEcuador a:hover
+{
+ color: #000000;
 }
 #LinksEcuador
 {
@@ -206,6 +230,10 @@ margin-left: 40px;
     font-size: 55pt;
     letter-spacing: 16px;
     color: #4261AB;
+}
+.spanColombia a:hover
+{
+ color: #000000;
 }
 #LinksColombia
 {
@@ -222,6 +250,10 @@ margin-left: 40px;
     font-size: 50pt;
     color: #4261AB;
 }
+.spanChile a:hover
+{
+ color: #000000;
+}
 #LinksChile
 {
     color: #4261AB;
@@ -235,6 +267,10 @@ margin-left: 40px;
     letter-spacing: 21px;
     color: #12ADB0;
     margin-right: 10px;
+}
+.spanArgentina a:hover
+{
+ color: #000000;
 }
 #LinksArgentina
 {
@@ -252,6 +288,10 @@ margin-left: 40px;
     color: #E36170;
     margin-right: 8px;
 }
+.spanFso a:hover
+{
+ color: #000000;
+}
 #LinksFso
 {
     color: #E36170;
@@ -266,6 +306,10 @@ margin-left: 40px;
     font-size: 54pt;
     color: #AB698F;
 }
+.spanMotorcraft a:hover
+{
+ color: #000000;
+}
 #LinksMotorcraft
 {
     color: #AB698F;
@@ -279,6 +323,10 @@ margin-left: 40px;
     font-size: 50pt;
     color: #FF8000;
     margin-right: 7px;
+}
+.spanPeru a:hover
+{
+ color: #000000;
 }
 #LinksPeru
 {
