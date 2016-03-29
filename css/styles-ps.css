@@ -106,7 +106,7 @@ h1, h2 {
 }
 
 
-.spanMexico
+.spanLink
 {
     font-family: 'Open Sans Condensed', sans-serif;
     position: relative;
@@ -117,11 +117,11 @@ h1, h2 {
     color: #000000;
     margin-right: 10px;
 }
-.spanMexico a:hover
+.spanLink a:hover
 {
  color: #B9B9B9;
 }
-#LinksMexico
+#LinksSpan
 {
     color: #000000;
 }
